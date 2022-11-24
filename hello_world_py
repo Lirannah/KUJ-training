@@ -1,1 +1,2 @@
+#Wyświetla "Hello_world" na ekranie monitora
 print("Hello World")
